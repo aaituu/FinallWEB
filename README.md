@@ -1,4 +1,4 @@
-# Rentify — Apartment Renting & Selling (Backend + MongoDB + Frontend)
+# Rentify — Apartment Renting & Selling
 
 This repository contains a **Node.js + Express + MongoDB** backend and a React frontend that is served from the backend as static files.
 
